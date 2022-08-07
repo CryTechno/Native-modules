@@ -11,8 +11,4 @@ The most common functions for any site have been implemented, and in the future 
  - Timer
  - Calorie Calculator
 
-
-## Link
-My Building native modules https://crytechno.github.io/Native-modules/
-
 ## Code by CryTechno
